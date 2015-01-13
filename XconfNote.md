@@ -20,4 +20,4 @@ auto|non-conf?|xrandr?
 #### reference info:
 [bug608237](https://bugzilla.novell.com/show_bug.cgi?id=608237)
 [wiki](https://en.opensuse.org/SDB:Configuring_graphics_cards)
-[trySteps](https://en.opensuse.org/SDB:Configuring_graphics_cards)
+[trySteps](https://en.opensuse.org/SDB:Configuring_graphics_cards)  
